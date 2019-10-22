@@ -1,0 +1,6 @@
+C:\Users\usr\source\repos\LongestPalinfromic\LongestPalinfromic\bin\Debug\LongestPalinfromic.exe.config
+C:\Users\usr\source\repos\LongestPalinfromic\LongestPalinfromic\bin\Debug\LongestPalinfromic.exe
+C:\Users\usr\source\repos\LongestPalinfromic\LongestPalinfromic\bin\Debug\LongestPalinfromic.pdb
+C:\Users\usr\source\repos\LongestPalinfromic\LongestPalinfromic\obj\Debug\LongestPalinfromic.csprojAssemblyReference.cache
+C:\Users\usr\source\repos\LongestPalinfromic\LongestPalinfromic\obj\Debug\LongestPalinfromic.exe
+C:\Users\usr\source\repos\LongestPalinfromic\LongestPalinfromic\obj\Debug\LongestPalinfromic.pdb
